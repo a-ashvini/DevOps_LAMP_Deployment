@@ -1,6 +1,4 @@
-<img width="1920" height="1080" alt="Login Page<img width="1920" height="1080" alt="Options" src="https://github.com/user-attachments/assets/f7e6c80d-9452-4131-a3ca-28fc4e3500aa" />
-<img width="1920" height="1080" alt="Home Page" src="https://github.com/user-attachments/assets/fcee9c9d-f737-49d3-bfaa-922137d66c84" />
-" src="https://github.com/user-attachments/assets/9dffa3f8-0cbb-48c3-b62d-815da0d30e20" />
+
 # 🚀 Hotel Website Deployment using Terraform & Ansible
 
 This project demonstrates automated deployment of a PHP-based hotel website on AWS using Terraform and Ansible.
